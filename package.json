@@ -1,0 +1,17 @@
+{
+  "name": "js-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "generate-readme": "node generate-readme.js",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Harshvardhan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
