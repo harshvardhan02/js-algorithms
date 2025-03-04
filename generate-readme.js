@@ -1,11 +1,17 @@
 // generate-readme.js
-const fs = require('fs');
-const path = require('path');
+// const fs = require('fs');
+// const path = require('path');
+
+import fs from 'fs';
+import path from 'path';
+
+const __dirname = path.resolve();
 
 const categories = [
   'sorting',
   'searching',
-  'dsa-patterns'
+  'dsa-patterns',
+  'dynamic-programming',
   // ... add more
 ];
 

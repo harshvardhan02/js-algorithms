@@ -1,7 +1,5 @@
 # JavaScript Algorithms Repository
 
-# Table of Contents 📚
-
 ## SORTING
 - [BUBBLE SORT](./algorithms/sorting/bubble-sort.js)
 - [HEAP SORT](./algorithms/sorting/heap-sort.js)
@@ -31,4 +29,15 @@
 - [TOPOLOGICAL SORT](./algorithms/dsa-patterns/topological-sort.js)
 - [TWO POINTER PATTERN](./algorithms/dsa-patterns/two-pointer-pattern.js)
 - [UNION FIND](./algorithms/dsa-patterns/union-find.js)
+
+## DYNAMIC-PROGRAMMING
+- [COIN CHANGE](./algorithms/dynamic-programming/coin-change.js)
+- [EDIT DISTANCE](./algorithms/dynamic-programming/edit-distance.js)
+- [FIBONACCI SEQUENCE](./algorithms/dynamic-programming/fibonacci-sequence.js)
+- [HOUSE ROBBER](./algorithms/dynamic-programming/house-robber.js)
+- [KNAPSACK PROBLEM](./algorithms/dynamic-programming/knapsack-problem.js)
+- [LONGEST COMMON SUBSEQUENCE](./algorithms/dynamic-programming/longest-common-subsequence.js)
+- [LONGEST INCREASING SUBSEQUENCE](./algorithms/dynamic-programming/longest-increasing-subsequence.js)
+- [PALINDROMIC SUBSTRING](./algorithms/dynamic-programming/palindromic-substring.js)
+- [PARTITION EQUAL SUBSET SUM](./algorithms/dynamic-programming/partition-equal-subset-sum.js)
 
