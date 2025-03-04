@@ -12,6 +12,7 @@ const categories = [
   'searching',
   'dsa-patterns',
   'dynamic-programming',
+  'string-algorithms',
   // ... add more
 ];
 

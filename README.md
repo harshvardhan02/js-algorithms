@@ -41,3 +41,9 @@
 - [PALINDROMIC SUBSTRING](./algorithms/dynamic-programming/palindromic-substring.js)
 - [PARTITION EQUAL SUBSET SUM](./algorithms/dynamic-programming/partition-equal-subset-sum.js)
 
+## STRING-ALGORITHMS
+- [KMP ALGORITHM](./algorithms/string-algorithms/KMP-Algorithm.js)
+- [Z ALGORITHM](./algorithms/string-algorithms/Z-Algorithm.js)
+- [LONGEST PALINDROMIC SUBSTRING](./algorithms/string-algorithms/longest-palindromic-substring.js)
+- [RABIN KARP ALGORITHM](./algorithms/string-algorithms/rabin-karp-algorithm.js)
+
