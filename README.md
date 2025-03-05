@@ -41,3 +41,8 @@
 - [LONGEST PALINDROMIC SUBSTRING](./algorithms/string-algorithms/longest-palindromic-substring.js)
 - [RABIN KARP ALGORITHM](./algorithms/string-algorithms/rabin-karp-algorithm.js)
 
+## COMMON-PROBLEMS
+- [LARGEST NUMBER IN AN ARRAY](./algorithms/common-problems/largest-number-in-an-array.js)
+- [SECOND SMALLEST AND SECOND LARGEST ELEMENT IN AN ARRAY REVERSE A GIVEN ARRAY](./algorithms/common-problems/second-smallest-and-second-largest-element-in-an-array-Reverse-a-given-array.js)
+- [SMALLEST NUMBER IN AN ARRAY](./algorithms/common-problems/smallest-number-in-an-array.js)
+
