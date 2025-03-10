@@ -22,6 +22,8 @@ const categories = [
   'divide-and-conquer',
   'greedy-algorithms',
   'graph-algorithms',
+  'bit-manipulation',
+  'miscellaneous'
   // ... add more
 ];
 

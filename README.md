@@ -116,3 +116,14 @@
 - [TOPOLOGICALSORT](./algorithms/graph-algorithms/topologicalSort.js)
 - [UNIONFIND](./algorithms/graph-algorithms/unionFind.js)
 
+## BIT-MANIPULATION
+- [XOR PROBLEM](./algorithms/bit-manipulation/XOR-Problem.js)
+- [COUNTSETBITS](./algorithms/bit-manipulation/countSetBits.js)
+- [FINDNONREPEATINGELEMENT](./algorithms/bit-manipulation/findNonRepeatingElement.js)
+- [POWEROFTWOBITMANIPULATION](./algorithms/bit-manipulation/powerOfTwoBitManipulation.js)
+
+## MISCELLANEOUS
+- [MONOTONICSTACK](./algorithms/miscellaneous/monotonicStack.js)
+- [RESERVOIRSAMPLING](./algorithms/miscellaneous/reservoirSampling.js)
+- [TORTOISEANDHARE](./algorithms/miscellaneous/tortoiseAndHare.js)
+
