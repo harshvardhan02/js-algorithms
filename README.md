@@ -63,3 +63,56 @@
 - [SORTBYFREQUENCY](./algorithms/common-problems/sortByFrequency.js)
 - [SORTBYORDER](./algorithms/common-problems/sortByOrder.js)
 
+## BACKTRACKING
+- [ISSUBSETSUM](./algorithms/backtracking/isSubsetSum.js)
+- [NQUEENSSUDOKU](./algorithms/backtracking/nQueensSudoku.js)
+- [PERMUTATIONSANDCOMBINATIONS](./algorithms/backtracking/permutationsAndCombinations.js)
+- [SOLVERATINMAZE](./algorithms/backtracking/solveRatInMaze.js)
+- [WORDSEARCH](./algorithms/backtracking/wordSearch.js)
+
+## TREE
+- [BINARYSEARCHTREE](./algorithms/tree/BinarySearchTree.js)
+- [BINARYTREETRAVERSALS](./algorithms/tree/binaryTreeTraversals.js)
+- [DIAMETEROFBINARYTREE](./algorithms/tree/diameterOfBinaryTree.js)
+- [LEVELORDERTRAVERSAL](./algorithms/tree/levelOrderTraversal.js)
+- [LOWESTCOMMONANCESTOR](./algorithms/tree/lowestCommonAncestor.js)
+- [MAXPATHSUM](./algorithms/tree/maxPathSum.js)
+- [SERIALIZEDESERIALIZE](./algorithms/tree/serializeDeserialize.js)
+- [TREETRAVERSALSANDVIEWS](./algorithms/tree/treeTraversalsAndViews.js)
+
+## LINKED-LIST-ALGORITHMS
+- [DETECTCYCLEINLINKEDLIST](./algorithms/linked-list-algorithms/detectCycleInLinkedList.js)
+- [GETINTERSECTIONNODE](./algorithms/linked-list-algorithms/getIntersectionNode.js)
+- [MERGETWOSORTEDLISTS](./algorithms/linked-list-algorithms/mergeTwoSortedLists.js)
+- [REVERSELINKEDLIST](./algorithms/linked-list-algorithms/reverseLinkedList.js)
+
+## MATHEMATICAL-ALGORITHMS
+- [FIBONACCI](./algorithms/mathematical-algorithms/fibonacci.js)
+- [GCD](./algorithms/mathematical-algorithms/gcd.js)
+- [MODULAREXPONENTIATION](./algorithms/mathematical-algorithms/modularExponentiation.js)
+
+## HEAP-OR-PRIORITY-QUEUE-ALGORITHMS
+- [FINDMEDIANFROMDATASTREAM.JS](./algorithms/heap-or-priority-queue-algorithms/findMedianFromDataStream.js.js)
+- [KTHLARGESTELEMENT](./algorithms/heap-or-priority-queue-algorithms/kthLargestElement.js)
+- [MERGEKSORTEDLISTS](./algorithms/heap-or-priority-queue-algorithms/mergeKSortedLists.js)
+
+## DIVIDE-AND-CONQUER
+- [MAXSUBARRAY](./algorithms/divide-and-conquer/maxSubArray.js)
+
+## GREEDY-ALGORITHMS
+- [ACTIVITY SELECTION](./algorithms/greedy-algorithms/activity-selection.js)
+- [DIJKSTRAS ALGORITHM](./algorithms/greedy-algorithms/dijkstras-algorithm.js)
+- [FRACTIONAL KNAPSACK](./algorithms/greedy-algorithms/fractional-knapsack.js)
+- [HUFFMAN CODING](./algorithms/greedy-algorithms/huffman-coding.js)
+- [JOB SEQUENCING](./algorithms/greedy-algorithms/job-sequencing.js)
+
+## GRAPH-ALGORITHMS
+- [BELLMANFORD](./algorithms/graph-algorithms/bellmanFord.js)
+- [BREADTH FIRST SEARCH](./algorithms/graph-algorithms/breadth-first-search.js)
+- [DEPTH FIRST SEARCH](./algorithms/graph-algorithms/depth-first-search.js)
+- [FLOYDWARSHALL](./algorithms/graph-algorithms/floydWarshall.js)
+- [KRUSKAL](./algorithms/graph-algorithms/kruskal.js)
+- [PRIMS](./algorithms/graph-algorithms/prims.js)
+- [TOPOLOGICALSORT](./algorithms/graph-algorithms/topologicalSort.js)
+- [UNIONFIND](./algorithms/graph-algorithms/unionFind.js)
+

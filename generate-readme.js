@@ -14,6 +14,14 @@ const categories = [
   'dynamic-programming',
   'string-algorithms',
   'common-problems',
+  'backtracking',
+  'tree',
+  'linked-list-algorithms',
+  'mathematical-algorithms',
+  'heap-or-priority-queue-algorithms',
+  'divide-and-conquer',
+  'greedy-algorithms',
+  'graph-algorithms',
   // ... add more
 ];
 
